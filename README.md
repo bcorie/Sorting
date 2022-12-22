@@ -1,6 +1,6 @@
 # Sorting
 
-**Assignment E12 in IGME 206**
+## Assignment E12 in IGME 206
 
 Complete the following methods to create an upside-down array and sorts the columns in descending order:
 
@@ -8,6 +8,7 @@ Complete the following methods to create an upside-down array and sorts the colu
 * `CreateArray`: creates a column-major array with an odd number of columns.
 * `PrintArray`: prints the current values based on the input base size, as shown in the output, below.
 * `SortArray`: sorts the array based on size of the columns in descending order and stores the sorted array in the original array. Do not save the original array elsewhere. You must use either an insert or selection sort approach and a ragged/jagged array.
+
 For example, the entire third column of the unsorted array becomes the first column of the sorted array:
 ```
 Unsorted:
